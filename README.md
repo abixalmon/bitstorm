@@ -1,4 +1,4 @@
-bitstorm
+Bitstorm
 ========
 
 Bitstorm: The World’s Most Simple BitTorrent Tracker
